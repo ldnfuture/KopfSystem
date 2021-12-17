@@ -1,0 +1,9 @@
+main: at.ldnfuture.kopfsystem.main.Main
+name: KopfSystem
+version: 1.0.0
+author: LDN_Future
+commands:
+   kopf:
+      description: Gib dir einen Kopf von einem beliebigen Spieler.
+   kopfreload:
+      description: Lade die Config neu.
